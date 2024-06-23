@@ -1,0 +1,4 @@
+Vehiculo de Combustion,1,0,4
+Vehiculo Electrico,2,60,2
+Moticleta de Combustion,3,0,2
+Moticleta Electrica,4,60,1
