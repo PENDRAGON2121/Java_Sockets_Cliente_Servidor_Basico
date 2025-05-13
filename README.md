@@ -1,6 +1,10 @@
 ## Tema : Proyecto Parqueo Público
 
+JDK: >22.0.0
+
 #### INSTRUCCIONES:
+
+
 
 * Programe en JAVA la solución que usted definió y que le permitan cumplir con los requerimientos del
 sistema.
